@@ -1,0 +1,14 @@
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\bin\Release\DebugApp.exe.config
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\bin\Release\DebugApp.exe
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\bin\Release\DebugApp.pdb
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\bin\Release\WCMCOMServer.dll
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\bin\Release\ConfigUI.Handlers.dll
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\bin\Release\WCMCOMServer.pdb
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\bin\Release\ConfigUI.Handlers.pdb
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\obj\Release\DebugApp.csproj.AssemblyReference.cache
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\obj\Release\DebugApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\obj\Release\DebugApp.csproj.CoreCompileInputs.cache
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\obj\Release\DebugApp.csproj.CopyComplete
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\obj\Release\DebugApp.exe
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\DebugApp\obj\Release\DebugApp.pdb

@@ -1,0 +1,2 @@
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\WCMCOMServer\obj\Debug\WCMCOMServer.csproj.AssemblyReference.cache
+C:\Users\Sumeet_Dev_PC\Desktop\ConfigUI_Handlers\WCMCOMServer\obj\Debug\WCMCOMServer.csproj.CoreCompileInputs.cache

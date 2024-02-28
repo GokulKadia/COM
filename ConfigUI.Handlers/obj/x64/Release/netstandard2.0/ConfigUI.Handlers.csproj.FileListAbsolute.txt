@@ -1,0 +1,10 @@
+C:\Users\gokul_kadia\source\repos\ConfigUI_Handlers\ConfigUI.Handlers\bin\x64\Release\netstandard2.0\ConfigUI.Handlers.deps.json
+C:\Users\gokul_kadia\source\repos\ConfigUI_Handlers\ConfigUI.Handlers\bin\x64\Release\netstandard2.0\ConfigUI.Handlers.dll
+C:\Users\gokul_kadia\source\repos\ConfigUI_Handlers\ConfigUI.Handlers\bin\x64\Release\netstandard2.0\ConfigUI.Handlers.pdb
+C:\Users\gokul_kadia\source\repos\ConfigUI_Handlers\ConfigUI.Handlers\obj\x64\Release\netstandard2.0\ConfigUI.Handlers.csproj.AssemblyReference.cache
+C:\Users\gokul_kadia\source\repos\ConfigUI_Handlers\ConfigUI.Handlers\obj\x64\Release\netstandard2.0\ConfigUI.Handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokul_kadia\source\repos\ConfigUI_Handlers\ConfigUI.Handlers\obj\x64\Release\netstandard2.0\ConfigUI.Handlers.AssemblyInfoInputs.cache
+C:\Users\gokul_kadia\source\repos\ConfigUI_Handlers\ConfigUI.Handlers\obj\x64\Release\netstandard2.0\ConfigUI.Handlers.AssemblyInfo.cs
+C:\Users\gokul_kadia\source\repos\ConfigUI_Handlers\ConfigUI.Handlers\obj\x64\Release\netstandard2.0\ConfigUI.Handlers.csproj.CoreCompileInputs.cache
+C:\Users\gokul_kadia\source\repos\ConfigUI_Handlers\ConfigUI.Handlers\obj\x64\Release\netstandard2.0\ConfigUI.Handlers.dll
+C:\Users\gokul_kadia\source\repos\ConfigUI_Handlers\ConfigUI.Handlers\obj\x64\Release\netstandard2.0\ConfigUI.Handlers.pdb
